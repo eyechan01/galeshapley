@@ -1,0 +1,16 @@
+### Starting build.
+Backtrace:
+                      - Failed to build the target lab10.byte
+                          - Building lab10.byte:
+                              - Building lab10.cmo:
+                                  - Failed to build all of these:
+                                      - Building lab10.ml:
+                                          - Failed to build all of these:
+                                              - Building lab10.mly
+                                              - Building lab10.mll
+                                      - Building lab10.mli:
+                                          - Building lab10.mly
+                                      - Building lab10.mlpack
+                                      - Building lab10.mli:
+                                          - Building lab10.mly
+# Compilation unsuccessful.
